@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <form action="" method="$_POST">
+    <form action="salvar.php" method="$_POST">
         <label for="">Selecione seu Herói !</label><br><br>
         <select name="herois">
             <option value="">Supermen</option>
